@@ -121,9 +121,3 @@ Wally and Coda is a full-stack web application built with [FastAPI](https://fast
 - Users can create vet visit records for each pup.
 - If a pup is removed, its records are removed as well.
 - Users can remove individual records.
-
-## Contact
-Elliott Larsen
-- Email: elliottlrsn@gmail.com
-- GitHub: [@elliottlarsen](https://github.com/elliottlarsen)
-- LinkedIn: [@elliottlarsen](https://www.linkedin.com/in/elliottlarsen)
